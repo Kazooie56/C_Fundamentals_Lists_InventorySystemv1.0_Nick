@@ -114,9 +114,3 @@ namespace C_Fundamentals_Lists_InventorySystemv1._0_Nick
         }
     }
 }
-        //Use("banana"); // do not have a banana
-        //Add("rock"); // should fail to add (not enough space in inventory)
-        //Use("health potion");
-        //Use("orange");
-        //Drop("apple");
-        //Clear(); // on player death
